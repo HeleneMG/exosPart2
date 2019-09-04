@@ -1,0 +1,16 @@
+body{
+    width: 100%;
+    margin:0;
+    padding:0;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+}
+.bouton{
+    width: 70px;
+    margin-top: 10px;
+}
+.mur{
+    margin-top: 10px;
+}
